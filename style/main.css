@@ -432,14 +432,14 @@ hr {
     font-size: 45px; }
 @media screen and (max-width: 620px) {
     .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 18px; } }
 .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: #F0833C;
     font-size: 45px; }
 @media screen and (max-width: 620px) {
     .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+        font-size: 18px; } }
 .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
     background: #DE3CF0;

@@ -104,16 +104,14 @@ p {
 a {
     color: #0A588B;
     font-weight: bold;
-    text-decoration: underline;
     cursor: pointer; 
-	
+	text-decoration: none;
 	padding: 3px;
 	}
 a:hover, .restart-button:hover {
-    color: #fff!important;
+    color: #0A588B;
 	text-shadow: 0 0 3px rgba(255,255,255,.6);
-	background: #09578A;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 strong.important {

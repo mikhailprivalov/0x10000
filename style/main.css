@@ -174,7 +174,6 @@ hr {
     box-sizing: border-box;
     margin-left: auto;
     margin-right: auto;
-	border-top-left-radius: 0;
 	}
 .game-container .game-message {
     display: none;
@@ -636,7 +635,7 @@ hr {
         margin-top: 2px; }
 
     .game-container {
-        margin-top: 37px;
+        margin-top: 33px;
         position: relative;
         padding: 10px;
         cursor: default;
@@ -654,6 +653,7 @@ hr {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
+		border-top-left-radius: 0;
     }
     .game-container .game-message {
         display: none;

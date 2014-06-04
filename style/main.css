@@ -729,7 +729,7 @@ hr {
     .tile, .tile .tile-inner {
         width: 44px;
 		height: 44px;
-        line-height: 67.5px;
+        line-height: 49px;
         transition: 400msl
     }
     .tile.tile-position-1-1 {

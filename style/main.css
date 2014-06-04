@@ -113,6 +113,10 @@ a:hover, .restart-button:hover {
 	text-shadow: 0 0 3px rgba(255,255,255,.6);
 	text-decoration: underline;
 }
+.restart-button:hover {
+	color: #fff;
+	text-decoration: none;
+}
 
 strong.important {
     text-transform: uppercase; }

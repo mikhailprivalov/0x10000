@@ -408,7 +408,9 @@ hr {
 	}
 .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #0A588B; }
+    background: #09838B; 
+	
+	}
 .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: #3EAAF1; }

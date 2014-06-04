@@ -121,7 +121,7 @@ HTMLActuator.prototype.updateScore = function (score) {
 };
 
 HTMLActuator.prototype.updateBestScore = function (bestScore) {
-  this.bestContainer.textContent = bestScore.toString(16);
+	this.bestContainer.textContent = parseInt(bestScore, 10).toString(16);
 };
 
 HTMLActuator.prototype.message = function (won) {

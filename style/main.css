@@ -105,10 +105,15 @@ a {
     color: #0A588B;
     font-weight: bold;
     text-decoration: underline;
-    cursor: pointer; }
+    cursor: pointer; 
+	
+	padding: 3px;
+	}
 a:hover, .restart-button:hover {
-    color: #FFF!important;
-    text-shadow: 0 0 3px rgba(255,255,255,.6);
+    color: #fff!important;
+	text-shadow: 0 0 3px rgba(255,255,255,.6);
+	background: #09578A;
+	text-decoration: none;
 }
 
 strong.important {
